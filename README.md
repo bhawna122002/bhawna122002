@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @bhawna122002
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data science 
-- 💞️ I’m looking to collaborate on anything related to data science 
+
+<h3 align="center">A passionate Data Science Aspirant from India</h3>
+
+- 🌱 I’m currently learning **Data Science and machine Learning**
+
+- 📫 How to reach me **Bhawna.singh122002@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 <!---
